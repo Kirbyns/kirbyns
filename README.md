@@ -37,3 +37,9 @@
   <img align="center" alt="git" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
 </div>
   
+##
+ 
+  <p align="center"> Total de Visitas no perfil :detective: <br>
+<p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/kirbyns/count.svg" />
+</p>
