@@ -7,7 +7,7 @@
 - 🔭 I’m currently working at Leroy Merlin 
 - 🌱 I’m currently learning Laravel / Angular
 - 👨‍🎓 I'm studying at Centro Universitário Senac 
-- 🎮 actually Lost Ark
+- 🎮 actually playing Lost Ark
 - 🚩 São Paulo-SP BR
 - ⚡ Fun fact: many people don't know me by name 😅😂
 - 📩 Find me on ⏬
